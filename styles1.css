@@ -1,0 +1,15 @@
+input {
+	border-radius: 5px;
+}
+
+body{
+	background: #74AFAD;
+}
+ 
+a {
+	color: #111;
+}
+
+a:hover {
+	color: #2B2B2B;
+}
